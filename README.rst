@@ -2,6 +2,8 @@
 Django Cryptocurrency Payment
 =============================
 
+updated.
+
 .. image:: https://badge.fury.io/py/django-cryptocurrency-payment.svg
     :target: https://badge.fury.io/py/django-cryptocurrency-payment
 
